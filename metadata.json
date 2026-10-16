@@ -1,0 +1,6 @@
+{
+  "name": "Strands: Word Search",
+  "description": "A premium Strands-inspired word search puzzle game with themed grids, golden spangrams, and falling star celebrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
